@@ -4,13 +4,22 @@ The core concept of NeuroAccess is Adaptive Web Transformation: rather than forc
 <img height="400" alt="Screenshot 2026-09-27 143037" src="https://github.com/user-attachments/assets/c9a28d6d-8e6e-4c82-99d3-9fb4427b6fe6" />
 
 <hr>
-<h2>Required Programs : </h2>
+<h2>Programming Languages and Libraries used :  </h2>
+<ul>
+  <li> HTML, CSS, JS </li>
+  <li> MongoDB, Express.js, React (Vite) , Node.js, </li>
+  <li> Web Speech Synthesis API, npm, Mongoose, Puppeteer, Google Gemini API </a></li>
+</ul>
+
+
+
+<hr>
+<h2>Programs to be Installed : </h2>
 <ul>
   <li> <a href="https://nodejs.org/en/download">Node.js (LTS Version) </a></li>
   <li> <a href="https://www.mongodb.com/try/download/community-kubernetes-operator"> MongoDB Community Server </a></li>
   <li> <a href="https://aistudio.google.com/api-keys"> Google AI Studio (Gemini API Key) </a></li>
 </ul>
-
 <hr>
 
 <h2>Step 1 : Clone the Repository</h2>
