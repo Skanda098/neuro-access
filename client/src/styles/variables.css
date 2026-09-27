@@ -1,0 +1,45 @@
+:root {
+  --user-font-size: 18px;
+  --user-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --user-line-spacing: 1.6;
+}
+
+:root[data-theme="standard"] {
+  --bg-primary: #f8f9fa;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a1a;
+  --text-secondary: #4a5568;
+  --border-color: #e2e8f0;
+  --accent-color: #2563eb;
+  --accent-hover: #1d4ed8;
+}
+
+:root[data-theme="dark"] {
+  --bg-primary: #121212;
+  --bg-card: #1e1e1e;
+  --text-primary: #e0e0e0;
+  --text-secondary: #a0a0a0;
+  --border-color: #333333;
+  --accent-color: #3b82f6;
+  --accent-hover: #60a5fa;
+}
+
+:root[data-theme="high-contrast"] {
+  --bg-primary: #000000;
+  --bg-card: #0a0a0a;
+  --text-primary: #ffff00;
+  --text-secondary: #ffffff;
+  --border-color: #ffff00;
+  --accent-color: #00ffff;
+  --accent-hover: #80ffff;
+}
+
+:root[data-theme="sepia"] {
+  --bg-primary: #f4ecd8;
+  --bg-card: #fdf6e3;
+  --text-primary: #433422;
+  --text-secondary: #655339;
+  --border-color: #d3c6aa;
+  --accent-color: #b58900;
+  --accent-hover: #8f6b00;
+}
