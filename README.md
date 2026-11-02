@@ -52,6 +52,7 @@ then type the following commands one by one to start the backend :
 
 cd server
 npm install
+npm install express cors dotenv puppeteer @google/genai mongoose
 npm run dev
 ```
 
