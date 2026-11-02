@@ -9,7 +9,9 @@ The core concept of NeuroAccess is Adaptive Web Transformation: rather than forc
   <li> HTML, CSS, JS </li>
   <li> MongoDB, Express.js, React (Vite) , Node.js, </li>
   <li> Web Speech Synthesis API, npm, Mongoose, Puppeteer, Google Gemini API </a></li>
-</ul>
+</ul> <br>
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/2bb66136-0c2f-43e7-9002-2c9dc97c7ffc" />
 
 
 
