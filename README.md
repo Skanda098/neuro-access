@@ -1,8 +1,8 @@
 <h1>Neuro-access</h1>
 The core concept of NeuroAccess is Adaptive Web Transformation: rather than forcing users to adapt to inaccessible websites, NeuroAccess adapts the website to match the user's specific cognitive and visual needs <br><br>
 
-<img height="325" alt="Screenshot 2026-09-27 143037" src="https://github.com/user-attachments/assets/c9a28d6d-8e6e-4c82-99d3-9fb4427b6fe6" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="325" alt="image" src="https://github.com/user-attachments/assets/54c85192-15d8-4848-b5d6-002f367a9bf3" />
+<img width="325" alt="Screenshot 2026-09-27 143037" src="https://github.com/user-attachments/assets/c9a28d6d-8e6e-4c82-99d3-9fb4427b6fe6" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="325" alt="image" src="https://github.com/user-attachments/assets/54c85192-15d8-4848-b5d6-002f367a9bf3" />
 
 <hr>
 <h2>Programming Languages and Libraries used :  </h2>
